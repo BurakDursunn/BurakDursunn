@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BurakDursunn
-- 👀 I’m interested in Frontend and Backend Development.
-- 🌱 I’m currently learning React and Spring Framework.
+- 👀 I’m interested in Backend Development and Frontend Development.
+- 🌱 I’m currently learning Spring Framework.
 - 📫 How to reach me https://www.linkedin.com/in/burak-dursun-21a752180/
 
 <!---
